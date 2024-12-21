@@ -10,33 +10,6 @@ Work with JavaScript, TypeScript, and modern web technologies.
 
 Focus on clean, maintainable, and scalable code.
 
-
-## 🛠️ Tech Stack:
-
-Backend: Node.js, Express.js, REST APIs
-
-Frontend: React.js
-
-Database: MongoDB, MySQL
-
-DevOps: Docker, CI/CD
-
-Others: Linux, Git, Web Security
-
-
-## 🌟 Interests:
-
-When I'm not coding, you'll find me exploring the world of ethical hacking, playing video games, or catching up on movies. I'm also diving into Android development and always eager to learn new technologies.
-
-## 📫 Let's Connect:
-
-Portfolio Website: (Coming Soon!)
-
-Email: mohammad.emam.dev@example.com
-
-LinkedIn: LinkedIn Profile
-
-
 Feel free to explore my repositories and reach out for collaboration or discussions on exciting projects!
 
 
