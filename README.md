@@ -2,16 +2,11 @@
 
 I'm a Backend Developer based in Bangladesh, passionate about crafting robust and scalable web applications. I specialize in Node.js, Express.js, React.js, and MongoDB, building dynamic and efficient solutions for modern web challenges.
 
-## 🚀 What I Do:
-
-Develop high-performance RESTful APIs and full-stack applications.
-
-Work with JavaScript, TypeScript, and modern web technologies.
-
-Focus on clean, maintainable, and scalable code.
-
-Feel free to explore my repositories and reach out for collaboration or discussions on exciting projects!
-
+ _Develop high-performance RESTful APIs and full-stack applications._
+ 
+ _Work with JavaScript, TypeScript, and modern web technologies._
+ 
+ _Focus on clean, maintainable, and scalable code._
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohammad-emam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammad-emam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-emam) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mohammad-emam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohammad-emam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sytaxStudio) 
