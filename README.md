@@ -1,3 +1,8 @@
+<!-- markdownlint-disable first-line-h1 -->
+<!-- markdownlint-disable html -->
+<!-- markdownlint-disable no-duplicate-header -->
+
+
 ## Hi there, I'm Mohammad Emam 👋
 
 I'm a Backend Developer based in Bangladesh, passionate about crafting robust and scalable web applications. I specialize in Node.js, Express.js, React.js, and MongoDB, building dynamic and efficient solutions for modern web challenges.
